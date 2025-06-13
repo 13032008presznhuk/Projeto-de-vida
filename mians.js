@@ -21,8 +21,7 @@ botoes[i].onclick = fuction () {
      const tempoObjetivo4 = new Date("2033-11-31t00:00:00");
 
      const tempo = [tempoObjetivo1,tempoObjetivo2,tempoObjetivo3,tempoObjetivo4]
-
-     
+  
      fuction calculaTempo(tempoOjetivo){
         let tempoAtual = neu Date();
         let tempoFinal = tempoObjetivo - tenpoAtual;
